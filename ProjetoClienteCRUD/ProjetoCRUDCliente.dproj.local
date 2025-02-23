@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/01/09 15:04:23.000.279,=C:\Users\dell\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/01/09 15:08:38.000.323,=C:\Users\dell\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/01/09 15:09:51.000.588,C:\Projetos\UMenuPrincipal.pas=C:\Users\dell\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/01/09 15:09:51.000.588,C:\Projetos\UMenuPrincipal.dfm=C:\Users\dell\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2025/01/09 15:10:02.000.265,C:\Projetos\UDM.dfm=C:\Users\dell\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2025/01/09 15:10:02.000.265,C:\Projetos\UDM.pas=C:\Users\dell\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/01/09 15:10:22.000.431,C:\Projetos\ProjectoEmisaoPedido.dproj=C:\Users\dell\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/01/09 21:35:44.000.349,=C:\Projetos\Unit1.pas</Transaction>
+    <Transaction>2025/01/09 21:53:08.000.085,C:\Projetos\Unit1.pas=C:\Projetos\UCadastroClientes.pas</Transaction>
+    <Transaction>2025/01/09 21:53:08.000.085,C:\Projetos\Unit1.dfm=C:\Projetos\UCadastroClientes.dfm</Transaction>
+    <Transaction>2025/01/11 14:10:24.000.737,=C:\Projetos\UCadCLientes.pas</Transaction>
+    <Transaction>2025/01/11 15:00:52.000.418,=C:\Projetos\Ufunc.pas</Transaction>
+    <Transaction>2025/01/11 15:25:43.000.326,=C:\Projetos\UDMCadastros.pas</Transaction>
+    <Transaction>2025/01/11 16:39:23.000.690,C:\Projetos\UCadastroClientes.pas=</Transaction>
+    <Transaction>2025/01/11 16:48:34.000.041,=C:\Projetos\UCadProdutos.pas</Transaction>
+    <Transaction>2025/01/11 18:30:32.000.338,=C:\Projetos\ULanPedidos.pas</Transaction>
+    <Transaction>2025/01/11 20:24:23.000.958,=C:\Projetos\UItePedidos.pas</Transaction>
+    <Transaction>2025/01/12 00:32:55.000.172,=C:\Projetos\URelatorio.pas</Transaction>
+    <Transaction>2025/01/12 15:56:06.000.327,=C:\Projetos\Unit1.pas</Transaction>
+    <Transaction>2025/02/23 12:47:47.534,C:\ProjetoClienteCRUD\UCadProdutos.pas=</Transaction>
+    <Transaction>2025/02/23 12:47:52.990,C:\ProjetoClienteCRUD\UItePedidos.pas=</Transaction>
+    <Transaction>2025/02/23 12:47:56.500,C:\ProjetoClienteCRUD\ULanPedidos.pas=</Transaction>
+    <Transaction>2025/02/23 12:48:28.415,C:\ProjetoClienteCRUD\URelatorio.pas=</Transaction>
+    <Transaction>2025/02/23 13:35:02.307,C:\ProjetoClienteCRUD\ProjetoCRUDCliente.dproj=C:\ProjetoClienteCRUD\ProjectoEmisaoPedido.dproj</Transaction>
+    <Transaction>2025/02/23 14:12:26.767,=C:\ProjetoClienteCRUD\APICNPJ\UCnpjAPI.Core.pas</Transaction>
+    <Transaction>2025/02/23 14:12:26.776,=C:\ProjetoClienteCRUD\APICNPJ\UCnpjAPI.Intf.pas</Transaction>
+    <Transaction>2025/02/23 14:12:26.783,=C:\ProjetoClienteCRUD\APICNPJ\UCnpjAPI.Model.pas</Transaction>
+    <Transaction>2025/02/23 14:24:05.550,=C:\ProjetoClienteCRUD\APIIBGE\UIBGEAPI.Core.pas</Transaction>
+    <Transaction>2025/02/23 14:24:05.561,=C:\ProjetoClienteCRUD\APIIBGE\UIBGEAPI.Intf.pas</Transaction>
+    <Transaction>2025/02/23 14:24:05.570,=C:\ProjetoClienteCRUD\APIIBGE\UIBGEAPI.Model.pas</Transaction>
+    <Transaction>2025/02/23 14:24:16.430,=C:\ProjetoClienteCRUD\APICEP\ViaCEP.Core.pas</Transaction>
+    <Transaction>2025/02/23 14:24:16.441,=C:\ProjetoClienteCRUD\APICEP\ViaCEP.Intf.pas</Transaction>
+    <Transaction>2025/02/23 14:24:16.450,=C:\ProjetoClienteCRUD\APICEP\ViaCEP.Model.pas</Transaction>
+  </Transactions>
+</BorlandProject>
